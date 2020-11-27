@@ -117,8 +117,8 @@ while True:
     except ValueError:
         computer_desk.clear_desk()
 
-print("Поле компа:")
-computer_desk.field_output()
+#print("Поле компа:")
+#computer_desk.field_output()
 
 #геймплэй:
 n_moves = 1  # счётчик хода, нечётный = игрок, чётный = компутер
